@@ -1,0 +1,1289 @@
+{
+  "DPS": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Lightning": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Madness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Corruption": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Argure_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Immortal": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Rage": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Vengeance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Phyrluia_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Advanced Prototype": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Pyrotech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Shield Tech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Gundyr_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Marksmanship": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Engineering": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Li'll_Virulence": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Combat": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Concentration": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Watchman": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Kinetic Combat": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Infiltration": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ayathalia_Serenity": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Kinetic Combat": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Infiltration": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Serenity": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Telekinetics": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Balance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Lizjata_Seer": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Gunnery": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Assault Specialist": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Combat Medic": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Scrapper": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Ruffian": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ellinoa_Sawbones": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Sharpshooter": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Saboteur": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Dirty Fighting": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Scrapper": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Ruffian": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Calliome_Sawbones": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Marksmanship": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Engineering": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Aakurb_Virulence": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Marksmanship": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Engineering": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ach Mann_Virulence": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Defense": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Focus": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Vigilance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Kinetic Combat": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Infiltration": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Brother Day_Serenity": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Shield Tech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Advanced Prototype": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Pyrotech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Countermeasures Reset_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Shield Tech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Advanced Prototype": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Pyrotech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Deadawakens_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Fury": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Carnage": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Annihilation": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Destroyer Gorlock_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Immortal": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Rage": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Vengeance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Edas Induction_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Arsenal": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Innovative Ordnance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Bodyguard": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Elderly Roberta_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Marksmanship": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Engineering": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Virulence": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Line Friend_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Niemla_Arsenal": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Niemla_Innovative Ordnance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Niemla_Bodyguard": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Shield Specialist": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Tactics": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Plasmatech": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Scrapper": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Ruffian": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Nilvisha_Sawbones": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Lightning": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Madness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Ornstein_Corruption": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Scrapper": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Ruffian": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Sawbones": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Sharpshooter": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Saboteur": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Patches_Dirty Fighting": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Darkness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Deception": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Hatred": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Lightning": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Madness": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Poppy Poppy_Corruption": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Arsenal": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Innovative Ordnance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Bodyguard": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Concealment": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Lethality": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Rylste_Medicine": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Telekinetics": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Balance": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Seer": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Kinetic Combat": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Infiltration": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Yuchei_Serenity": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ],
+  "Healer": [
+    2,
+    3,
+    6,
+    10,
+    18,
+    19,
+    1
+  ]
+}

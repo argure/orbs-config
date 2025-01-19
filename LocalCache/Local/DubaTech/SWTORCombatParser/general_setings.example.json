@@ -1,0 +1,6 @@
+{
+  "overlay_bar_scale": 1.0,
+  "custom_audio_paths": [],
+  "Auto_Parse": "true",
+  "Hotkeys": "{\"UILockHotkeyMod1\":2,\"UILockHotkeyMod2\":1,\"UILockHotkeyStroke\":76,\"UILockEnabled\":true,\"HOTRefreshHotkeyMod1\":2,\"HOTRefreshHotkeyMod2\":1,\"HOTRefreshHotkeyStroke\":82,\"HOTRefreshEnabled\":true,\"OverlayHideHotkeyMod1\":2,\"OverlayHideHotkeyMod2\":4,\"OverlayHideHotkeyStroke\":76,\"OverlayHideEnabled\":true}"
+}

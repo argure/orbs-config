@@ -1,0 +1,10 @@
+AC/*
+AppData/*
+LocalCache/**/resources/*
+logs.txt
+LocalState/*
+RoamingState/*
+Settings/*
+SystemAppData/*
+TempState/*
+**/general_settings.json # Contains Parsely credentials
