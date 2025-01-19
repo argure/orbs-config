@@ -128,12 +128,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
-
-<a href="https://github.com/argure/orbs-config/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=argure/orbs-config" alt="contrib.rocks image" />
-</a>
-
 <!-- LICENSE -->
 
 ## License
