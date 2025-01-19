@@ -17,7 +17,7 @@
 <h3 align="center">@argure/orbs-config</h3>
 
   <p align="center">
-    My config for [Old Republic: Battle Parser](https://github.com/dubada01/SWTORCombatParser)
+    My config for Old Republic: Battle Parser
     <br />
     <a href="https://github.com/argure/orbs-config/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
